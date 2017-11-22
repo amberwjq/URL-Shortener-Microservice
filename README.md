@@ -1,7 +1,7 @@
 # A project for freeCodeCamp chanlenge
 https://www.freecodecamp.org/challenges/url-shortener-microservice
 
-# bjective
+# Objective
 Build a full stack JavaScript app that is functionally similar to this: https://little-url.herokuapp.com/ and deploy it to Glitch.
 
 
